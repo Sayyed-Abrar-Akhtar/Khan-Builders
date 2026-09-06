@@ -1,0 +1,31 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.15
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1824ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.4s (689 modules)
+ HEAD / 200 in 5843ms
+ ✓ Compiled in 608ms (304 modules)
+ GET / 200 in 138ms
+ ○ Compiling /services ...
+ ✓ Compiled /services in 1158ms (663 modules)
+ ○ Compiling /services/[slug] ...
+ ✓ Compiled /services/[slug] in 772ms (672 modules)
+ GET / 200 in 298ms
+ ○ Compiling /api/contact ...
+ ✓ Compiled /api/contact in 1612ms (519 modules)
+[QUOTE FORM SUBMISSION LOGGED (NO API KEY SET)] {
+  name: 'Sarah Jenkins',
+  phone: '07890 123456',
+  email: 'sarah@example.co.uk',
+  preferredContact: 'phone',
+  serviceNeeded: 'New Builds',
+  message: 'Requesting EICR safety inspection for a 3-bedroom terraced rental property in Luton.',
+  recipientEmail: 'info@khannbuilders.co.uk'
+}
+ POST /api/contact 200 in 1873ms
