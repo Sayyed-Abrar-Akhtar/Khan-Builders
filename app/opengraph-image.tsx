@@ -1,7 +1,6 @@
 import { ImageResponse } from "next/og";
 import { siteConfig } from "@/content/site-config";
 
-export const runtime = "edge";
 
 export const alt = "Khan Builders and Electrical Works — Builders & Electricians in Luton";
 export const size = {

@@ -1,0 +1,18 @@
+
+> my-app@0.1.0 start
+> next start
+
+▲ Next.js 16.3.4
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 211ms
+✓ Running next.config.mjs took 22ms
+[QUOTE FORM SUBMISSION LOGGED (NO API KEY SET)] {
+  name: 'Sarah Jenkins',
+  phone: '07890 123456',
+  email: 'sarah@example.co.uk',
+  preferredContact: 'phone',
+  serviceNeeded: 'New Builds',
+  message: 'Requesting EICR safety inspection for a 3-bedroom terraced rental property in Luton.',
+  recipientEmail: 'info@khannbuilders.co.uk'
+}
